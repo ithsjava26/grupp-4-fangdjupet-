@@ -1,0 +1,35 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+build/
+
+### VS Code ###
+.vscode/
+
+### System ###
+.DS_Store
+Thumbs.db
+
+### Gra ###
+savegame.txt
+*.log
